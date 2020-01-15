@@ -71,4 +71,5 @@ def naming_system
 
   }
 
+life_on_earth
 end
